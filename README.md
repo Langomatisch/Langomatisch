@@ -10,6 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Langomatisch.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="mailto://admin@Langomatisch.de" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][email]
 [<img align="left" alt="Langomatisch | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Langomatisch | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Langomatisch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -41,7 +42,7 @@
 #    Github Stats
   <img align="left" alt="Langomatisch's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Langomatisch&show_icons=true&hide_border=true" />
 
-
+[email]: mailto://admin@langomatisch.de
 [website]: https://bausucht.net
 [twitter]: https://twitter.com/Langomatisch
 [youtube]: https://youtube.com/Langomatisch
