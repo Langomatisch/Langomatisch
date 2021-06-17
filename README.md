@@ -40,7 +40,7 @@
 <!--END_SECTION:activity-->
 
 #    Github Stats
-  <img align="left" alt="Langomatisch's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Langomatisch&show_icons=true&hide_border=true" />
+![Langomatisch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Langomatisch&count_private=true)
 
 [email]: mailto://admin@langomatisch.de
 [website]: https://bausucht.net
