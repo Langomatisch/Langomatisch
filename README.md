@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning how to scale applications in cloud efficiently  
   
 
-- ⚡ Fun fact: I have way to many tabs in chrome open  
+- ⚡ Fun fact: I have way too many tabs open in chrome  
   
 
 <br/>  
