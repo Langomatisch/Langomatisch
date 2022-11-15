@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Landania](https://landania.net) and [BauSucht](https://bausucht.net)  
   
 
-- 🌱 I’m currently learning how to scale in cloud  
+- 🌱 I’m currently learning how to scale applications in cloud efficiently  
   
 
 - ⚡ Fun fact: I have way to many tabs in chrome open  
