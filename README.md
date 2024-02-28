@@ -1,12 +1,8 @@
 ### <div align="center">I'm Matthew, a full-time Java developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Landania](https://landania.net) and [BauSucht](https://bausucht.net)  
+- 🔭 I’m currently working on [Landania](https://landania.net), [BauSucht](https://bausucht.net) and [iostein](https://iostein.net)  
   
-
-- 🌱 I’m currently learning how to scale applications in cloud efficiently  
-  
-
 - ⚡ Fun fact: I have way too many tabs open in chrome  
   
 
