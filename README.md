@@ -72,16 +72,6 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=langomatisch&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=langomatischtv&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=langomatisch&&style=flat-square" align="center" />
 </div>  
