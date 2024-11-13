@@ -3,9 +3,6 @@
 
 - 🔭 I’m currently working on [Landania](https://landania.net), [BauSucht](https://bausucht.net) [iostein](https://iostein.net) and [blockbande](https://blockbande.net)  
   
-- ⚡ Fun fact: I have way too many tabs open in chrome  
-  
-
 <br/>  
 
 
